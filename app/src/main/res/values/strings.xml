@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación de saludos</string>
+    <string name="titulo">Aplicación de saludos</string>
+    <string name="hint_nombre">Escribe tu nombre</string>
+    <string name="btn_saludar">SALUDAR</string>
+    <string name="btn_limpiar">LIMPIAR</string>
+    <string name="toast_vacio">Escribe tu nombre</string>
+    <string name="toast_bienvenida">¡Bienvenido/a!</string>
+    <string name="saludo_formato">Hola, %1$s</string>
+</resources>
