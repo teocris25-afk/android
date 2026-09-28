@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Aplicación de saludos</string>
@@ -8,4 +9,8 @@
     <string name="toast_vacio">Escribe tu nombre</string>
     <string name="toast_bienvenida">¡Bienvenido/a!</string>
     <string name="saludo_formato">Hola, %1$s</string>
+=======
+<resources>
+    <string name="app_name">Bottoncillo</string>
+>>>>>>> 81516ffaaf6423e182981d88ff5f8a40189040c2
 </resources>

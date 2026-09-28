@@ -3,13 +3,21 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.teo.aplicacionsaludos"
+=======
+    namespace = "com.teo.bottoncillo"
+>>>>>>> 81516ffaaf6423e182981d88ff5f8a40189040c2
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId = "com.teo.aplicacionsaludos"
+=======
+        applicationId = "com.teo.bottoncillo"
+>>>>>>> 81516ffaaf6423e182981d88ff5f8a40189040c2
         minSdk = 24
         targetSdk = 37
         versionCode = 1
@@ -40,5 +48,9 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     androidTestImplementation(libs.androidx.junit)
+<<<<<<< HEAD
 }
 
+=======
+}
+>>>>>>> 81516ffaaf6423e182981d88ff5f8a40189040c2

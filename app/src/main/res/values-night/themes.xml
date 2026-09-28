@@ -1,7 +1,15 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Base.Theme.AplicacionSaludos" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
     </style>
 </resources>
 
+=======
+    <style name="Base.Theme.Bottoncillo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>
+>>>>>>> 81516ffaaf6423e182981d88ff5f8a40189040c2
